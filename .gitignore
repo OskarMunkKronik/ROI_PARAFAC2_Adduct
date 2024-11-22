@@ -1,0 +1,9 @@
+# Matfiles
+*.mat
+*.asv
+
+
+#Figures 
+*.png
+*.tiff
+*.tif
