@@ -1,7 +1,7 @@
 load([BaseDirectory,'\DataFiles\MatFiles\AdductFlagging.mat'])
 load([BaseDirectory,'\DataFiles\MatFiles\Interval.mat'])
 
-%%
+%% Make vectors ready for parrallel computing
 
 
 % Interval_Vec = repelem(1:size(Intervals,1),Options.MaxFactor);
